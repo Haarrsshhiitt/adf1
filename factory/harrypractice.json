@@ -1,0 +1,9 @@
+{
+	"name": "harrypractice",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "238c10db-e3fc-4aab-afbb-a1f7001dc759",
+		"tenantId": "2dd2413b-f06d-402f-99fd-476e49f43754"
+	}
+}
