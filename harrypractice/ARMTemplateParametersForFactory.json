@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "harrypractice"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
